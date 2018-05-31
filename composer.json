@@ -1,5 +1,5 @@
 {
-    "name": "spinx/sidekiq-job-php",
+    "name": "makitosan/sidekiq-job-php",
     "description": "Push and schedule jobs to Sidekiq from PHP",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Damjan Znidarsic",
             "email": "damjan@znidarsic.me"
+        },
+        {
+            "name": "Makito-san",
+            "email": "makitosansan@gmail.com"
         }
     ],
     "keywords" : [
